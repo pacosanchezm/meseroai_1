@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'Smart, Secure, Simple Financial Management',
-    subheading: 'From effortless budgeting to real-time investment insights, Finwise puts you in control of your money like never before',
-    centerImageSrc: '/images/hero-mockup.webp',
+    heading: 'Tu asistente de IA para tu restaurante',
+    subheading: 'Atiende a tus clientes en whatsapp y escribe el pedido directamente en tu software de restaurante',
+    centerImageSrc: '/images/logohero.png',
 }

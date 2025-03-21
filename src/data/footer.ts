@@ -7,23 +7,23 @@ export const footerDetails: {
     telephone: string;
     socials: ISocials;
 } = {
-    subheading: "Empowering businesses with cutting-edge financial technology solutions.",
+    subheading: "cambiando la experiencia de tu cliente.",
     quickLinks: [
         {
-            text: "Features",
+            text: "Ventajas",
             url: "#features"
         },
         {
-            text: "Pricing",
+            text: "Precios",
             url: "#pricing"
         },
         {
-            text: "Testimonials",
+            text: "Testimonios",
             url: "#testimonials"
         }
     ],
-    email: 'address@yoursite.com',
-    telephone: '+1 (123) 456-7890',
+    email: 'info@agentia.co',
+    telephone: '(477) 274-0011',
     socials: {
         // github: 'https://github.com',
         // x: 'https://twitter.com/x',
